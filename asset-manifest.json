@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deploySPA/static/css/main.daf14b51.css",
+    "main.js": "/deploySPA/static/js/main.8522d642.js",
+    "static/js/787.28cb0dcd.chunk.js": "/deploySPA/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/deploySPA/index.html",
+    "main.daf14b51.css.map": "/deploySPA/static/css/main.daf14b51.css.map",
+    "main.8522d642.js.map": "/deploySPA/static/js/main.8522d642.js.map",
+    "787.28cb0dcd.chunk.js.map": "/deploySPA/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daf14b51.css",
+    "static/js/main.8522d642.js"
+  ]
+}
